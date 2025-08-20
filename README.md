@@ -7,7 +7,9 @@ Aprendendo a como usar a ferramenta de versionamento de código Git junto com o 
 
 |Aula 2| Resumo |
 |------|--------|
-git init|Iniciar repo local
+git init|Inicia repo local
+git commit|Salva uma nova alteração do repositório|
+|git push -u origin main| Envia alterações realizadas do repo local para o repo remoto|
 
 
 |Aula 3| Resumo |
